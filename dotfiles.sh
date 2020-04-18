@@ -14,7 +14,7 @@ ls ~/.dotfiles &>/dev/null || {
 
 [[ -f ~/.extra ]] || {
   log "> Configure Dotfiles"
-  T="node"
+  T="node git tmux htop coreutils fswatch fzf fd ripgrep"
   P="atom brave-browser microsoft-office"
   N="http-server prettier raw browser-sync"
   A="autocomplete-paths file-icons language-vue minimap minimap-cursorline pigments prettier-atom teletype"
