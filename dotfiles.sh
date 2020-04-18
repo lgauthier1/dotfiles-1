@@ -16,7 +16,7 @@ ls ~/.dotfiles &>/dev/null || {
   log "> Configure Dotfiles"
   T="node"
   P="atom brave-browser microsoft-office"
-  N="http-server prettier raw"
+  N="http-server prettier raw browser-sync"
   A="autocomplete-paths file-icons language-vue minimap minimap-cursorline pigments prettier-atom teletype"
   read -p "Name: ($NAME) " NAME
   read -p "Email: ($EMAIL) " EMAIL
