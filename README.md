@@ -1,4 +1,4 @@
-# Valentin's dotfiles
+# Laurent's dotfiles
 
 ![Terminal screenshot](dotfiles.png)
 
